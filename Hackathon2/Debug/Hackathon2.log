@@ -1,0 +1,229 @@
+﻿  main.cpp
+C:\CSCE121\Hackathon2\main.cpp(69,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(69,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(85,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(85,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(118,45): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(118,42): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(142,23): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(142,20): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(287,60): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(287,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(346,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(425,79): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(425,55): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(439,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(439,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(474,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(474,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(478,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(478,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(482,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(482,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(486,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(486,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(490,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(490,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(494,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(494,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(498,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(498,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(502,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(502,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(506,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(506,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(510,42): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(510,27): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(514,43): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(514,28): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(525,62): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(525,48): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(527,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(527,22): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(539,44): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(539,37): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(547,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(547,47): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(559,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(559,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(573,123): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(573,71): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(574,27): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(588,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(588,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(613,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(720,23): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(726,25): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(734,25): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(750,21): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(758,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(758,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(776,66): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(776,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(786,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(786,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(797,51): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(797,36): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\CSCE121\Hackathon2\main.cpp(853,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(853,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(887,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(888,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(906,39): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(988,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(1033,52): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\CSCE121\Hackathon2\main.cpp(1072,21): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(1102,20): warning C4018: '<': signed/unsigned mismatch
+C:\CSCE121\Hackathon2\main.cpp(1121,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Hackathon2.vcxproj -> C:\CSCE121\Hackathon2\Debug\Hackathon2.exe

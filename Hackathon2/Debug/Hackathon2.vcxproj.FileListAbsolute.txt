@@ -1,0 +1,2 @@
+C:\CSCE121\Hackathon2\Debug\Hackathon2.exe
+C:\CSCE121\Hackathon2\Debug\Hackathon2.pdb
